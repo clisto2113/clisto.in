@@ -42,7 +42,7 @@ Clisto uses a combination of:
 
 ## 📷 Screenshots
 
-> _Coming Soon_ – Add screenshots of charts, AI predictions, and dashboard features
+![Live Chart](https://www.clisto.in/clisto_og.png)
 
 ---
 
