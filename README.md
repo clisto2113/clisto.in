@@ -62,8 +62,8 @@ This is a personal project in active development. Contributions, ideas, and bug 
 
 For inquiries, feedback, or collaboration:
 - 🌐 Website: [www.clisto.in](https://www.clisto.in)
-- 📧 Email: coming soon
-- 🐦 Twitter: coming soon
+- 📧 Email: clistoofficial@gmail.com
+- 🐦 LinkedIn: https://www.linkedin.com/in/agneesh-waran-34b3711a1/?originalSubdomain=in
 
 ---
 
